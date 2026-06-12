@@ -1,6 +1,6 @@
 # The RPGMakerWeb archive
 ### What is this?
-The RPGMakerWeb is a forum where the RPG Maker shared information for a very long time. It is now being retired, and will face deletion, with no official plans for archiving or preserving the many insights collectively gained on the forum.
+The RPGMakerWeb is a forum where the RPG Maker community shared information for a very long time. It is now being retired, and will face deletion, with no official plans for archiving or preserving the many insights collectively gained on the forum.
 To mitigate this, I will attempt to archive the forum.
 
 ### How will this work?
